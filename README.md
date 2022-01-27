@@ -1,4 +1,4 @@
-## Oi Eu sou o  Thiago Ribeiro 
+## Olá,Seja Bem Vindo !!
 <div align="center">
   <a href="https://github.com/thiagothr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
