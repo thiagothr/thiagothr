@@ -29,6 +29,6 @@ Eu sou  Thiago Ribeiro,  estudante de Ciência da Computação no Rio de Janeiro
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothr&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagothr&layout=compact&langs_count=7&theme=swift"/>
+ <a href="https://github.com/thiagothr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagothr&layout=compact&langs_count=7&theme=apprentice"/>
