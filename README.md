@@ -1,4 +1,4 @@
-<h1>Olá, Seja Bem Vindo 🍜</h1>
+<h1>Olá, Seja Bem Vindo</h1>
 
 <p  align="center">
 Eu sou  Thiago Ribeiro,  estudante de Ciência da Computação no Rio de Janeiro, Brasil. Apaixonado por tecnologias e inovações 🦾
