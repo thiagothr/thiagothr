@@ -1,7 +1,7 @@
 <h1>Olá, Seja Bem Vindo</h1>
 
 <p  align="center">
-Me chamo Thiago Ribeiro Chaves, estudante de Ciência da Computação na UNICARIOCA no Rio de Janeiro, Apaixonado e principalmente na área de dados.
+Me chamo Thiago Ribeiro Chaves, estudante de Ciência da Computação na UNICARIOCA no Rio de Janeiro, Apaixonado por tecnologia e principalmente na área de dados.
 <p>
 
 <div  align='center'>
