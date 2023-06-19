@@ -10,7 +10,7 @@ Me chamo Thiago Ribeiro Chaves, estudante de Ciência da Computação na UNICARI
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-941b7b1a5/)
 </div>
 
- Estudante de Ciência da Computação com especialização em Engenharia
+- Estudante de Ciência da Computação com especialização em Engenharia
 de Dados e Ciência de Dados. Experiente em tecnologias de Big Data,
 como o ecossistema Hadoop (Hive, HDFS), Apache Spark, Python e seus
 frameworks para Ciência de Dados: Pandas, Numpy e PySpark.
