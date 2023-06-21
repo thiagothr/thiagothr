@@ -3,7 +3,9 @@
 <p  align="center">
 
 <p>
-[![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-941b7b1a5/)
+
+  
+  [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-941b7b1a5/)
 </div>
 
 
