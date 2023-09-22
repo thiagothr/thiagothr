@@ -12,7 +12,7 @@
 - Me chamo Thiago Ribeiro Chaves estudante de Ciência da Computação com especialização em Engenharia de Dados. Experiente em tecnologias de Big Data, como o ecossistema Hadoop (Hive, HDFS), Apache Spark, Python e  frameworks para Engenharia de dados: Pandas, Numpy e PySpark. Conhecimentos sólidos em SQL e NoSQL, Fluxos de trabalho e também experiência em computação em nuvem com as provedoras, Azure e AWS.
 ---
 
-<h3>Languages & Technologies:</h3>  
+<h3>Linguagens & Tecnologias:</h3>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
