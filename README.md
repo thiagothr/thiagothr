@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](thiagoribeiro.17@hotmail.com)
 </div>
 
-- Me chamo Thiago Ribeiro Chaves estudante de Ciência da Computação com especialização em Engenharia de Dados. Experiente em tecnologias de Big Data, como o ecossistema Hadoop (Hive, HDFS), Apache Spark, Python e  frameworks para Engenharia de dados: Pandas, Numpy e PySpark. Conhecimentos sólidos em SQL e NoSQL, Fluxos de trabalho e também experiência em computação em nuvem com as provedoras, Azure e AWS.
+- Especialização em Engenharia de Dados. Possuo conhecimentos em tecnologias de Big Data, como Azure, Python, SQL, Spark, Databricks, desenvolvimento com PySpark e Pandas. Experiência em SQL, Fluxos de trabalho com ferramenta Airflow e também experiência em computação em nuvem com as provedoras, Azure e AWS.
 ---
 
 <h3>Linguagens & Tecnologias:</h3>  
