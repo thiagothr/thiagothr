@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](thiagoribeiro.17@hotmail.com)
 </div>
 
-- Especialização em Engenharia de Dados. Possuo conhecimentos em tecnologias de Big Data, como Azure, Python, SQL, Spark, Databricks, desenvolvimento com PySpark e Pandas. Experiência em SQL, Fluxos de trabalho com ferramenta Airflow e também experiência em computação em nuvem com as provedoras, Azure, AWS e GCP.
+- Especializado em Engenharia de Dados. Possuo conhecimentos em tecnologias de Big Data, com Python, SQL, Spark, Databricks, desenvolvimento com frameworks como PySpark e Pandas. Experiência em SQL, Fluxos de trabalho com ferramenta Airflow e também experiência em computação em nuvem com as provedoras, Azure, AWS e GCP. Atualmente com focos e estudos para a area de AI Engineering.
 ---
 
 <h3>Linguagens & Tecnologias:</h3>  
